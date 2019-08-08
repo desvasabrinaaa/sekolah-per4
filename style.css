@@ -1,0 +1,21 @@
+h1 {
+	color:red;
+}
+p {
+	color:brown;
+	font-family:fantasy;
+	font-size:17px;
+	font-weight:35px
+  }
+.p2{
+	color:black;
+}
+#p3{
+	color:yellow;
+}
+li{
+	color:green;
+}
+body{
+	background-color: cornflowerblue;
+}
